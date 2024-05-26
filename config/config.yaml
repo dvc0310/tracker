@@ -1,0 +1,11 @@
+# config/config.yaml
+
+myfitnesspal_data_path: "data/raw/myfitnesspal_data.csv"
+workout_data_path: "data/raw/workout_data.csv"
+google_search_data_path: "data/raw/google_search_data.csv"
+youtube_data_path: "data/raw/youtube_data.csv"
+spending_data_path: "data/raw/spending_data.csv"
+
+myfitnesspal:
+  username: "USERNAME"
+  password: "PASSWORD"
